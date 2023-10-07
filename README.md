@@ -1,5 +1,5 @@
 # Employee System.
-An employment management system that allows the user to manage follow the employees details and manage them.
+An employment management system that allows the user to manage and follow the employees' details and manage them.
 
 ## Description
 An application of object-oriented programming using python in an employment system that allows the user to:
@@ -14,7 +14,9 @@ An application of object-oriented programming using python in an employment syst
 5. End the program.
    > If the user chose 5, the program _**terminates**_.
 
-This project covers multiple concepts such as object-oriented programming, handle invalid input and other types errors, case statements in an advanced way. 
+
+This project covers multiple concepts such as object-oriented programming, deque data structure, handling invalid input and other types of errors, and case statements in an advanced way. 
 
 ## Executing program
 Run the program, choose your desired process, and have fun ^^.
+
